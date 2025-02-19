@@ -1,7 +1,8 @@
+import Header from "./public/components/Header";
 
 
 export default function Index() {
   return (
-    <div>Index</div>
+    <Header/>
   )
 }
